@@ -106,7 +106,12 @@ const messages = [
 
     {
         type:"text",
-        content:"Anh luôn ủng hộ việc học, việc làm của em và cũng như ước muốn học lên thạc sĩ của em."
+        content:"Anh luôn ủng hộ việc học, việc làm và cũng như ước muốn học lên thạc sĩ của em."
+    },
+
+    {
+        type:"text",
+        content: "Con gái học nhiều thì hiểu biết càng nhiều t nói nó oách vô cùng gì đâu á:))"
     },
 
     {
