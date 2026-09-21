@@ -10,6 +10,11 @@ const messages = [
     },
 
     {
+        type:"text",
+        content: "Tui nói nhanh cnay th để lỡ bà có hoang mang á"
+    },
+
+    {
         type: "text",
         content: "Thì... tui cũng k biết mẹ Định có gửi đồ sang cho bà chưa"
     },
